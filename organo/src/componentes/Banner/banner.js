@@ -1,6 +1,6 @@
 function Banner(){
     return (
-        <img src=""
+        <img src="/imagens/"
     )
 }
 
